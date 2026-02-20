@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-optical-sizing: auto;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    
+}
